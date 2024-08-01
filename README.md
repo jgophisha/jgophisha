@@ -7,5 +7,7 @@
 jgophisha/jgophisha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-Tools I used![image](https://github.com/user-attachments/assets/be5b8376-2513-4a3f-a4cb-98af50b4dd97) ![image](https://github.com/user-attachments/assets/d8930219-f022-49da-a0a0-398bc7f00ad7)
+Tools I used!![image](https://github.com/user-attachments/assets/3927d481-f938-4b70-8071-c2d33852f353) ![image](https://github.com/user-attachments/assets/e3af7c05-5499-4b06-a78b-42dfd36a4e0e)
+
+
 
